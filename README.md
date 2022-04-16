@@ -23,7 +23,8 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-```# Developed By: Dineshkumar S
+```
+# Developed By: Dineshkumar S
 # Register Number: 212220230012
 ```
 ### To Read,display the image
