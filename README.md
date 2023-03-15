@@ -105,6 +105,5 @@ cv2.waitKey(0)
 ![Screenshot (17)](https://user-images.githubusercontent.com/75234807/163681104-60612cdb-8f5a-47ca-820b-96c2708145f8.png)
 
 
-
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
